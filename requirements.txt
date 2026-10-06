@@ -1,0 +1,9 @@
+streamlit>=1.40,<2
+sentence-transformers>=5,<7
+chromadb
+sqlalchemy
+python-dotenv
+pandas
+numpy
+plotly
+requests
